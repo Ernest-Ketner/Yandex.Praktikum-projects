@@ -1,4 +1,5 @@
 # Yandex Music Project
+
 ### Task:
 Determine how the preferences of Yandex.Music listeners change depending on the day of the week.
 
@@ -7,7 +8,9 @@ Yandex.Music is a large product with a huge amount of data for research. The mod
 
 ### Scope of activities:
 Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing , Startups, IT-company, Business services
+
 ### Used Libraries:
 Pandas
+
 ### tags:
 data science, Python, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn
