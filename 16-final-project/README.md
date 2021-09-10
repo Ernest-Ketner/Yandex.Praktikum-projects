@@ -1,16 +1,16 @@
-# Data Research of airline company
+# Data Research of telecom company
 
 ### Task:
-Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events
+Clients started leaving the telecom company every month. The probability of the client leaving the telecom company in the near future was predicted. A model with an extremely large value of the ROC-AUC was built with subsequent verification on a test sample. The metric has been brought to 0.96. Dealing with unbalanced data.
 
 ### Description:
-It is important for a Russian airline that performs domestic passenger transportation to understand the preferences of users who buy tickets to different destinations. The data were extracted by SQL language queries and PySpark library methods. The database was studied and passenger demand for flights to cities where major cultural festivals are held was analyzed. The hypothesis of the difference in the average demand for tickets during various festivals and at normal times.
+The information provided is four datasets with raw data. The datasets reflect the personal data of clients, information about Internet services, information about telephony services, as well as information about contracts. It should be noted that the information provided may contain some useful information, or, conversely, have unnecessary data. The date of unloading the dataset is February 1, 2020. 
 
 ### Scope of Activities:
-Airlines, Tourism, Business services(outsourcing consulting audit), Startups, IT-company
+Digital-agencies, Internet shops, Internet services, Banking sector / FinTech, Business services (outsourcing consulting audit), IT company, Startups
 
 ### Used Libraries:
-SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing
+Pandas, Matplotlib, Seaborn, numpy, sklearn, math, Machine Learning Libraries
 
 ### tags:
-data processing, statistical test, Student's t-test, barplot, data parsing, sql analyst, sql analyst, analyst, reporting analyst, SQL, PySpark, relational databases, distributed storage
+data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Research, Algorithms, CatBoost, xgboost, Support vector machines, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression
